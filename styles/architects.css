@@ -260,8 +260,20 @@ color: white;
     margin-top: 20px;
     margin-left: 20px;
   }
+ .footer {
+    font-size: 14px;
+    line-height: 1.6;
+    padding: 0 10px;
+  }
 
+  #irfan {
+    display: inline;
+    font-size: 14px;
+    font-weight: 600;
+    color: #727272;
+  }  
 }
+
 
 /* medium size device */
 @media screen and (min-width:576px) and (max-width:992px){
@@ -284,4 +296,16 @@ color: white;
   margin-top: 10px;
   margin-left: 20px;
 }
+.footer {
+    font-size: 14px;
+    line-height: 1.6;
+    padding: 10px 10px;
+  }
+
+  #irfan {
+    display: inline;
+    font-size: 14px;
+    font-weight: 600;
+    color: #727272;
+  }  
 }
